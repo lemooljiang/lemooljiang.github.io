@@ -30,12 +30,20 @@
 
 岁月匆匆，唯有道心永在。
 
+
 ## 更新
+2025.10.3 V8.3 modify outputdir name
+
 2025.10.2 V8.2 modify some mistakes
+
 2025.8.29 V8 migrate to Nuxt，and hive blockchain
+
 2019.12.11 v7.2 add ipfs-https
+
 ...
+
 2019.11.6  V2 modify
+
 2019.10.30 V1 online
 
 
