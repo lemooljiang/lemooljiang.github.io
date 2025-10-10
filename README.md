@@ -32,6 +32,8 @@
 
 
 ## 更新
+2025.10.10 V8.4 modify reply format
+
 2025.10.3 V8.3 modify outputdir name
 
 2025.10.2 V8.2 modify some mistakes
