@@ -1,6 +1,6 @@
 # 个人主页
 
-![lemooljiang.jpg](https://ipfs.ilark.io/ipfs/QmPY1wb7mJDs1TeXfFTZZVqnwMHbX49NzQT9xGQki3PVZK)
+![lemooljiang.jpg](https://yoyo.ilark.io/0x0/https://ipfs.ilark.io/ipfs/QmPY1wb7mJDs1TeXfFTZZVqnwMHbX49NzQT9xGQki3PVZK)
 [主页 | https://miao.ilark.io/lemooljiang](https://miao.ilark.io/lemooljiang)
 
 最近的一些想法总算是付诸完毕！[喵星](https://miao.ilark.io)上线了，个人主页也整巴整巴地初步完成了。虽然还有些简陋，但慢慢打磨下就会很好了。
@@ -20,7 +20,7 @@
 
 **有了前端，有了数据库，现在用起Hive来真是飞起来了！**
 
-![catbak.jpg](https://ipfs.ilark.io/ipfs/QmU2vFQhkR8nPDWyteSBAWzvJexpWmZ2osJxAxe8Ndgssp)
+![catbak.jpg](https://yoyo.ilark.io/0x0/https://ipfs.ilark.io/ipfs/QmU2vFQhkR8nPDWyteSBAWzvJexpWmZ2osJxAxe8Ndgssp)
 还不快来体验喵星， https://miao.ilark.io
 
 ## 后期计划
@@ -32,6 +32,8 @@
 
 
 ## 更新
+2025.11.7 V8.5 change image server
+
 2025.10.10 V8.4 modify reply format
 
 2025.10.3 V8.3 modify outputdir name
